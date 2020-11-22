@@ -1,2 +1,2 @@
 # burc-api-altyapi
-Burç API, MongoDB ile desteklenen altyapısı.
+Burç API, MongoDB, NodeJs ve Ejs ile desteklenen altyapısı.
