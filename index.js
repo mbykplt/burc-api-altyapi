@@ -3,7 +3,7 @@ const app=express();
 const axios=require("axios")
 const mongoose=require("mongoose")
 const db=require("./models/burc.js")
-mongoose.connect("mongodb+srv://mbykplt:63120012@burclar.bikza.mongodb.net/<dbname>?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://veritabaniBaglantisi.mongodb.net/<dbname>?retryWrites=true&w=majority")
 //EJS BAŞLANGICI
 app.set('views','./views')
 app.set('view engine','ejs')
